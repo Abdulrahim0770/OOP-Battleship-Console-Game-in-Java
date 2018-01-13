@@ -1,0 +1,2 @@
+# OOP-Battleship-Console-Game-in-Java
+The objective of the game is figuring out where these ships are placed and hit them. Every shot fired is said if you hit a ship. If you have wrong is told how many ships are in that row and that column. The game only ends when you find and sink the ships. Each round, enter two characters: the number of the row and column number where you want to give the shot.
